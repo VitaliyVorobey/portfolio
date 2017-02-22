@@ -63,7 +63,7 @@ header {
 }
 .large-img:hover,
 .small-img:hover {
-  transform: translateY(-3px);
+  transform: translateY(-4px);
 }
 .large-img,
 .small-img {
