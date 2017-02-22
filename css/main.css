@@ -58,6 +58,12 @@ main {
   width: 100%;
   height: 20%;
   background-color: #ffffff;
+  font-size: 16px;
+  font-family: "Lato";
+  color: #2D2D2D;
+  text-align: center;
+  font-weight: bold;
+  line-height: 41px;
 }
 #img1 {
   background-image: url('http://68.media.tumblr.com/566ab861f58d611ab3d7b9dcacecccd0/tumblr_okva7fxR5J1u4sioio1_500.jpg');
