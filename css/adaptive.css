@@ -22,7 +22,7 @@
     height: 13%;
   }
   .logo {
-    font-family: 'Viner Hand ITC';
+    font-family: 'Viner Hand ITC' !important;
   }
   @font-face {
     font-family: 'Viner Hand ITC';
@@ -58,7 +58,7 @@
     height: 13%;
   }
   .logo {
-    font-family: 'Viner Hand ITC';
+    font-family: 'Viner Hand ITC' !important;
   }
   @font-face {
     font-family: 'Viner Hand ITC';
@@ -97,7 +97,7 @@
     font-family: 'Viner Hand ITC';
   }
   @font-face {
-    font-family: 'Viner Hand ITC';
+    font-family: 'Viner Hand ITC' !important;
     font-style: normal;
     font-weight: 400;
     src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot");
@@ -137,7 +137,7 @@
     display: none;
   }
   .logo {
-    font-family: 'Viner Hand ITC';
+    font-family: 'Viner Hand ITC' !important;
   }
   @font-face {
     font-family: 'Viner Hand ITC';
@@ -176,7 +176,7 @@
     display: none;
   }
   .logo {
-    font-family: 'Viner Hand ITC';
+    font-family: 'Viner Hand ITC' !important;
   }
   @font-face {
     font-family: 'Viner Hand ITC';
