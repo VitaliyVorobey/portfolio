@@ -1,0 +1,18 @@
+html {
+  min-height: 100%;
+  font-family: sans-serif;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}

@@ -1,0 +1,71 @@
+header {
+  background-image: url('../img/header.jpg');
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+}
+.main-header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  width: 90%;
+  padding: 20px 0;
+  box-sizing: border-box;
+}
+.logo-icon-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.logo{
+  font-size: 18px;
+  font-family: "Viner Hand ITC";
+  color: rgb( 45, 45, 45 );
+}
+@media only screen and (min-width: 321px){
+  .logo {
+    font-size: 21px;
+  }
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+.header-text-container {
+  width: 80%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 51px;
+  h1 {
+    font-size: 24px;
+    font-family: "Lato";
+    color: rgb( 45, 45, 45 );
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+  }
+}
+.large-img:hover ,.small-img:hover {
+  transform: translateY(-3px);
+}
+.large-img, .small-img {
+  transition: 300ms;
+  transition-timing-function: ease-in-out;
+}
