@@ -21,6 +21,18 @@
   .footer-line-container {
     height: 13%;
   }
+  .logo {
+    font-family: 'Viner Hand ITC';
+  }
+  @font-face {
+    font-family: 'Viner Hand ITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot");
+    /* IE9*/
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff2") format("woff2"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff") format("woff"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.svg#Viner Hand ITC V2") format("svg");
+    /* iOS 4.1- */
+  }
 }
 @media only screen and (min-width: 321px) and (max-width: 639px) {
   .photo {
@@ -45,6 +57,18 @@
   .footer-line-container {
     height: 13%;
   }
+  .logo {
+    font-family: 'Viner Hand ITC';
+  }
+  @font-face {
+    font-family: 'Viner Hand ITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot");
+    /* IE9*/
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff2") format("woff2"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff") format("woff"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.svg#Viner Hand ITC V2") format("svg");
+    /* iOS 4.1- */
+  }
 }
 @media only screen and (min-width: 640px) and (max-width: 799px) {
   .photo {
@@ -68,6 +92,18 @@
   }
   .footer-line-container {
     height: 13%;
+  }
+  .logo {
+    font-family: 'Viner Hand ITC';
+  }
+  @font-face {
+    font-family: 'Viner Hand ITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot");
+    /* IE9*/
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff2") format("woff2"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff") format("woff"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.svg#Viner Hand ITC V2") format("svg");
+    /* iOS 4.1- */
   }
 }
 @media only screen and (min-width: 800px) and (max-width: 980px) {
@@ -100,6 +136,18 @@
   .footer-line-container > h1:nth-child(1) > br:nth-child(1) {
     display: none;
   }
+  .logo {
+    font-family: 'Viner Hand ITC';
+  }
+  @font-face {
+    font-family: 'Viner Hand ITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot");
+    /* IE9*/
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff2") format("woff2"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff") format("woff"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.svg#Viner Hand ITC V2") format("svg");
+    /* iOS 4.1- */
+  }
 }
 @media only screen and (min-width: 981px) {
   main {
@@ -126,6 +174,18 @@
   }
   .footer-line-container > h1:nth-child(1) > br:nth-child(1) {
     display: none;
+  }
+  .logo {
+    font-family: 'Viner Hand ITC';
+  }
+  @font-face {
+    font-family: 'Viner Hand ITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot");
+    /* IE9*/
+    src: url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff2") format("woff2"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.woff") format("woff"), /* chrome、firefox */ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("/fonts/83e5ac371473d9693a6ad28c323c3cf8.svg#Viner Hand ITC V2") format("svg");
+    /* iOS 4.1- */
   }
 }
 @media only screen and (min-width: 321px) {
