@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534209d8-b1d3-4d7b-8e23-04eb255c46d0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/VINERITC.TTF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Viner Hand ITC.ttf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/adaptive.css" afterPath="$PROJECT_DIR$/css/adaptive.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/adaptive.less" afterPath="$PROJECT_DIR$/css/adaptive.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fonts.css" afterPath="$PROJECT_DIR$/fonts/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fonts.less" afterPath="$PROJECT_DIR$/fonts/fonts.less" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="adaptive.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adaptive.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/adaptive.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="111" column="3" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
+            <state relative-caret-position="391">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fonts.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fonts.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fonts/fonts.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="493">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -115,8 +119,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.less" />
         <option value="$PROJECT_DIR$/fonts/fonts.css" />
-        <option value="$PROJECT_DIR$/fonts/fonts.less" />
         <option value="$PROJECT_DIR$/css/adaptive.less" />
+        <option value="$PROJECT_DIR$/fonts/fonts.less" />
       </list>
     </option>
   </component>
@@ -325,7 +329,7 @@
       <workItem from="1486715410605" duration="2106000" />
       <workItem from="1486719619052" duration="186000" />
       <workItem from="1487589419164" duration="35000" />
-      <workItem from="1487601407439" duration="14724000" />
+      <workItem from="1487601407439" duration="15072000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;base target=&quot;_blank&quot;&gt;">
       <created>1487761691511</created>
@@ -355,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487763697985</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fonts">
+      <created>1487763952470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487763952470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75513000" />
+    <option name="totallyTimeSpent" value="75861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -615,18 +626,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/fonts.less">
+    <entry file="file://$PROJECT_DIR$/css/adaptive.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/adaptive.less">
+    <entry file="file://$PROJECT_DIR$/fonts/fonts.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="111" column="3" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
+        <state relative-caret-position="493">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding />
         </state>
       </provider>
