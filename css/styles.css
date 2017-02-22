@@ -4,3 +4,17 @@
 @import "header.css";
 @import "main.css";
 @import "footer.css";
+/*
+      www.OnlineWebFonts.Com 
+      You must credit the author Copy this link on your web 
+      <div>Font made from <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>is licensed by CC BY 3.0</div>
+      OR
+      <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
+*/
+@font-face {
+  font-family: "Viner Hand ITC";
+  src: url("http://db.onlinewebfonts.com/t/83e5ac371473d9693a6ad28c323c3cf8.eot");
+  /* IE9*/
+  src: url("http://db.onlinewebfonts.com/t/83e5ac371473d9693a6ad28c323c3cf8.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("http://db.onlinewebfonts.com/t/83e5ac371473d9693a6ad28c323c3cf8.woff2") format("woff2"), /* chrome firefox */ url("http://db.onlinewebfonts.com/t/83e5ac371473d9693a6ad28c323c3cf8.woff") format("woff"), /* chrome firefox */ url("http://db.onlinewebfonts.com/t/83e5ac371473d9693a6ad28c323c3cf8.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/ url("http://db.onlinewebfonts.com/t/83e5ac371473d9693a6ad28c323c3cf8.svg#Viner Hand ITC") format("svg");
+  /* iOS 4.1- */
+}
