@@ -17,3 +17,5 @@ for (var i=0; i < img.length; i++) {
         imgModal.classList.add ("")
     };
 }
+
+alert("The website is under construction");
