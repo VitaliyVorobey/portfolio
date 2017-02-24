@@ -1,7 +1,7 @@
 var modal = document.getElementById('myModal');
 var img = document.getElementsByClassName('img');
 var span = document.getElementsByClassName("close")[0];
-var imgModal = document.getElementById('img01');
+var imgModal = document.getElementById("imgModal");
 window.onclick = function(e) {
     if (e.target == modal || e.target == span) {
         modal.classList.add ("hidden");
@@ -14,8 +14,14 @@ window.onclick = function(e) {
 for (var i=0; i < img.length; i++) {
     img[i].onclick = function() {
         modal.classList.remove("hidden");
-        imgModal.classList.add ("")
+        imgModal.style.backgroundImage = "url('foto2.jpg')";
     };
 }
 
-alert("The website is under construction");
+// alert("The website is under construction");
+
+// function ChangeBackgroungImageOfTab(imgModal, imagePrefix)
+// {
+//     var urlString = 'url(img/' + imagePrefix + '.jpg)';
+//     document.getElementById(imgModal).style.backgroundImage =  urlString;
+// }
