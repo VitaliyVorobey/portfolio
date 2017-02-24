@@ -326,7 +326,7 @@
       <workItem from="1486719619052" duration="186000" />
       <workItem from="1487589419164" duration="35000" />
       <workItem from="1487601407439" duration="23338000" />
-      <workItem from="1487927810133" duration="25513000" />
+      <workItem from="1487927810133" duration="25529000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;base target=&quot;_blank&quot;&gt;">
       <created>1487761691511</created>
@@ -489,14 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1487944171351</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Your question">
+      <created>1487969630356</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1487969630356</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109640000" />
+    <option name="totallyTimeSpent" value="109656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26041666" sideWeight="0.4914842" order="3" side_tool="false" content_ui="combo" x="43" y="76" width="340" height="612" />
