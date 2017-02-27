@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534209d8-b1d3-4d7b-8e23-04eb255c46d0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.less" afterPath="$PROJECT_DIR$/css/header.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/foto5.jpg" afterPath="$PROJECT_DIR$/img/foto5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/foto6.jpg" afterPath="$PROJECT_DIR$/img/foto6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/foto7.jpg" afterPath="$PROJECT_DIR$/img/foto7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/foto8.jpg" afterPath="$PROJECT_DIR$/img/foto8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1989">
@@ -74,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="366">
@@ -311,7 +314,7 @@
       <workItem from="1487589419164" duration="35000" />
       <workItem from="1487601407439" duration="23338000" />
       <workItem from="1487927810133" duration="26415000" />
-      <workItem from="1488187216005" duration="9938000" />
+      <workItem from="1488187216005" duration="10502000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;base target=&quot;_blank&quot;&gt;">
       <created>1487761691511</created>
@@ -492,7 +495,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120480000" />
+    <option name="totallyTimeSpent" value="121044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -631,18 +634,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding />
         </state>
       </provider>
