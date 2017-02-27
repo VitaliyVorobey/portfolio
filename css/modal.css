@@ -25,7 +25,7 @@
   margin: auto;
   display: block;
   width: 80%;
-  max-width: 700px;
+  max-width: 100px;
 }
 #caption {
   margin: auto;
@@ -36,6 +36,7 @@
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 25px;
 }
 .modal-content,
 #caption {
